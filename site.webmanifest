@@ -1,0 +1,14 @@
+{
+  "name": "Score TEV RCOG",
+  "short_name": "TEV RCOG",
+  "description": "Calculadora educacional do score de risco para tromboembolismo venoso em obstetrícia.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3f6",
+  "theme_color": "#7f004c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
