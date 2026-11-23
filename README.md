@@ -1,6 +1,6 @@
 # Score TEV RCOG — Calculadora
 
-**Aplicativo:** https://bauerfilho.github.io/score-tev-rcog/
+**Aplicativo:** https://rcog.orquestrator.ai/
 
 Calculadora web responsiva do score de fatores de risco para tromboembolismo venoso (TEV) em obstetrícia, preparada para uso educacional em celular, tablet e desktop.
 
@@ -15,7 +15,7 @@ Calculadora web responsiva do score de fatores de risco para tromboembolismo ven
 
 ## Acesso rápido
 
-➡️ **Abrir a calculadora:** https://bauerfilho.github.io/score-tev-rcog/
+**Abrir a calculadora:** https://rcog.orquestrator.ai/
 
 ## Referência e escopo
 
@@ -27,4 +27,10 @@ Nenhum dado digitado ou seleção realizada é enviado para servidor. A calculad
 
 ## Autoria e licença
 
-© 2026 Bauer Vieira. Código distribuído sob a licença MIT disponível em [`LICENSE`](LICENSE). A licença do código não altera direitos de terceiros sobre diretrizes, marcas ou conteúdos clínicos de referência.
+© 2026 Bauer Vieira. Esta publicação registra reserva de direitos, respeitadas as licenças anteriores aplicáveis. A consulta e a utilização da interface no site são permitidas; não há nova concessão de licença para reutilizar, modificar, redistribuir ou comercializar o código, salvo autorização escrita do titular ou permissões legais e anteriores aplicáveis.
+
+Versões anteriores foram disponibilizadas sob a licença MIT. Os direitos válidos concedidos nessas versões não são revogados. Consulte o aviso completo em [`LICENSE`](LICENSE) ou na [página de autoria](autoria.html).
+
+A autoria reivindicada refere-se ao código e aos elementos originais da aplicação. Diretrizes, marcas e conteúdos clínicos de terceiros, incluindo o RCOG, permanecem sob os direitos de seus respectivos titulares.
+
+O código entregue ao navegador continua tecnicamente visível. Os avisos documentam autoria e condições de uso; não constituem bloqueio de cópia nem garantia de resultado jurídico.
