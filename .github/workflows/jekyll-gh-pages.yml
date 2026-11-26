@@ -29,6 +29,11 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
+      # O passo de publicar pergunta ao GitHub pelo pacote no mesmo segundo em que o envio termina; quando a lista ainda não o mostra,
+      # ele falha com «No artifacts named "github-pages" were found» (aconteceu duas vezes seguidas em 26/11/2026, com o pacote
+      # enviado e íntegro). Alguns segundos de espera tiram essa corrida.
+      - name: Esperar o pacote aparecer na lista do GitHub
+        run: sleep 10
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
